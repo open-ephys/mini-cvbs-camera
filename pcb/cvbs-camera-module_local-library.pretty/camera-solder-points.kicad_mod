@@ -8,7 +8,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "92f0e5ba-5db9-442a-a99a-61dd1d13bf2a")
+		(uuid "bc590a0d-ceeb-4ec7-994b-edb354e5b2c0")
 		(effects
 			(font
 				(size 1 1)
@@ -17,10 +17,10 @@
 		)
 	)
 	(property "Value" "camera-solder-points"
-		(at 0 1 0)
+		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "94fa8611-51ca-47c5-8b96-37f77d1e8651")
+		(uuid "9134e7df-f3ee-4334-a856-07a91db4a96e")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "90c156ed-b7b7-46d9-899c-96c2e24f356b")
+		(uuid "47b825c5-e108-483b-b931-5c4beec00677")
 		(effects
 			(font
 				(size 1 1)
@@ -46,7 +46,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ad3e5ddf-43ac-4c64-9919-81c4e32257f1")
+		(uuid "f88ddb1b-a475-413f-90d9-1618d738a532")
 		(effects
 			(font
 				(size 1 1)
@@ -56,25 +56,13 @@
 	)
 	(attr through_hole)
 	(duplicate_pad_numbers_are_jumpers no)
-	(fp_text user "${REFERENCE}"
-		(at 0 2.5 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "3e44ca96-2bc1-4c55-9e2f-53e57fcf0682")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
 	(pad "1" thru_hole circle
 		(at 0.8 0)
 		(size 0.5 0.5)
 		(drill 0.3)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "a1196c01-0542-4b7e-b9f8-3b8a2375c325")
+		(uuid "7b75f26c-b3d8-4b04-aefe-15ed27deac10")
 	)
 	(pad "2" thru_hole circle
 		(at -0.8 0)
@@ -82,7 +70,7 @@
 		(drill 0.3)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "ded04182-fde8-4970-b28c-a4013061fd0e")
+		(uuid "8166a7c2-912a-4dbc-bdfb-f0af00e22976")
 	)
 	(pad "3" thru_hole circle
 		(at 0 0)
@@ -90,7 +78,7 @@
 		(drill 0.3)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "2f7eaf33-c7e7-4f54-b67b-f675c41e9ebb")
+		(uuid "b35fb729-8d6a-45fc-8267-99e7c279c6b9")
 	)
 	(embedded_fonts no)
 )

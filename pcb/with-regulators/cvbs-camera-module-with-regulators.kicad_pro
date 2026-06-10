@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.1
         }
       },
       "diff_pair_dimensions": [
@@ -60,7 +60,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|101355000|69710000|12594875-6786-4697-8c91-ae2daf0b8613|d1802586-7ab8-4cf5-bf98-cd9a886903cf",
+          "overlap courtyards to minimize PCB size"
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -537,7 +542,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "./gerbers",
+      "plot": "manufacturing/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "eye-tracker.step",
@@ -696,7 +701,7 @@
   "sheets": [
     [
       "d5fe2be8-899a-4d9d-8a6a-fc29e5e96fc1",
-      "cvbs-camera-module"
+      "cvbs-camera-module-with-regulators"
     ]
   ],
   "text_variables": {},
