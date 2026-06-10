@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "d5fe2be8-899a-4d9d-8a6a-fc29e5e96fc1")
 	(paper "A3")
+	(title_block
+		(title "NP2E-CVBS-EXTENSION")
+		(date "2026-06-09")
+		(rev "A")
+		(company "Open Ephys")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_Coaxial"
 			(pin_names
@@ -3059,7 +3065,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "IN-S42CTQIR"
 			(at 242.8875 223.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3069,7 +3075,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0201_0603Metric"
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
 			(at 241.3 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -3382,7 +3388,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "IN-S42CTQIR"
 			(at 242.8875 236.22 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3392,7 +3398,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0201_0603Metric"
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
 			(at 241.3 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -3660,7 +3666,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "IN-S42CTQIR"
 			(at 242.8875 210.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3670,7 +3676,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0201_0603Metric"
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
 			(at 241.3 215.9 0)
 			(hide yes)
 			(show_name no)

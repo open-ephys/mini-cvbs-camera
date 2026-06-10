@@ -239,7 +239,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "A"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -533,7 +533,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "./gerbers",
+      "plot": "manufacturing/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "eye-tracker.step",
@@ -686,7 +686,7 @@
         "uuid": "d5fe2be8-899a-4d9d-8a6a-fc29e5e96fc1"
       }
     ],
-    "used_designators": "#PWR18,#FLG2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
