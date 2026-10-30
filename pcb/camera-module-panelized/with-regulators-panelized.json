@@ -1,0 +1,8 @@
+{
+    "layout": {
+        "alternation": "rowsCols",
+        "rows": "5",
+        "cols": "2",
+        "renamenet": "with-reg_{n}-{orig}"
+    }
+}
