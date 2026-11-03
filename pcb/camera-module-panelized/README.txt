@@ -1,0 +1,1 @@
+The final panelized PCB used for manufacture was created using two panels that were each auto-panelized in KiCAD. One panel has a design where the camera's power is pre-regulated with an LDO and tapped from the filtered Vcoax. The other panel has a design where the camera's power is directly from a regulator on the np2e headstage.
