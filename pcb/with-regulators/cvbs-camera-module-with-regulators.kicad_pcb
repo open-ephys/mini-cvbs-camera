@@ -365,15 +365,15 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${JONNEW_3DMODEL_DIR}/HIROSE_X.FL-R-SMT-1.STEP"
+		(model "${OE_3DMODEL_DIR}/HIROSE_X.FL-R-SMT-1.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -7.5 0 0.25)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 180)
+				(xyz -180 -0 -0)
 			)
 		)
 	)
@@ -1167,15 +1167,15 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${JONNEW_3DMODEL_DIR}/HIROSE_X.FL-R-SMT-1.STEP"
+		(model "${OE_3DMODEL_DIR}/HIROSE_X.FL-R-SMT-1.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -7.5 0 0.25)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 180)
+				(xyz -180 -0 -0)
 			)
 		)
 	)
@@ -1420,7 +1420,7 @@
 			(uuid "98bed317-eba5-4f4b-a6bd-1e1d42402843")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-4_0.64x0.64mm_Layout2x2_P0.35mm.step"
+		(model "${OE_3DMODEL_DIR}/WLCSP-4_0.64x0.64mm_P0.35mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
